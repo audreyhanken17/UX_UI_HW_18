@@ -4,7 +4,7 @@
 body {
   font-size: 14px;
 }
-.v247_1872 {
+.bodywrap {
   width: 100%;
   height: 4588px;
   background: rgba(255,255,255,1);
@@ -14,7 +14,7 @@ body {
   left: 0px;
   overflow: hidden;
 }
-.v247_1894 {
+.aboutwrap {
   width: 651px;
   height: 841px;
   background: rgba(255,255,255,1);
@@ -29,7 +29,7 @@ body {
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   overflow: hidden;
 }
-.v247_1895 {
+.aboutaudrey {
   width: 223px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -41,7 +41,7 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v247_1896 {
+.abouttype {
   width: 506px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -53,7 +53,7 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v247_1921 {
+.aboutbuttonwrap {
   width: 296px;
   height: 98px;
   background: url("../images/v247_1921.png");
@@ -66,7 +66,7 @@ body {
   left: 370px;
   overflow: hidden;
 }
-.v247_1922 {
+.aboutbutton {
   width: 296px;
   height: 98px;
   background: rgba(74,87,206,1);
@@ -80,7 +80,7 @@ body {
   border-bottom-right-radius: 100px;
   overflow: hidden;
 }
-.v247_1923 {
+.aboutbuttontype {
   width: 212px;
   color: rgba(255,255,255,1);
   position: absolute;
@@ -92,7 +92,7 @@ body {
   opacity: 1;
   text-align: center;
 }
-.v247_1924 {
+.topnavlinks {
   width: 282px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -104,7 +104,7 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v247_1925 {
+.topnavbuttonwrap {
   width: 216px;
   height: 71px;
   background: url("../images/v247_1925.png");
@@ -117,7 +117,7 @@ body {
   left: 1320px;
   overflow: hidden;
 }
-.v247_1926 {
+.topnavbutton {
   width: 216px;
   height: 71px;
   background: rgba(212,223,69,1);
@@ -131,7 +131,7 @@ body {
   border-bottom-right-radius: 35px;
   overflow: hidden;
 }
-.v247_1927 {
+.topnavbuttontype {
   width: 98px;
   color: rgba(74,87,206,1);
   position: absolute;
@@ -143,7 +143,7 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v247_1928 {
+.bluelogo {
   width: 114px;
   height: 142px;
   background: url("../images/v247_1928.png");
@@ -156,7 +156,7 @@ body {
   left: 192px;
   overflow: hidden;
 }
-.v247_1920 {
+.mypic {
   width: 653px;
   height: 839px;
   background: url("../images/v247_1920.png");
@@ -173,7 +173,7 @@ body {
   border-bottom-right-radius: 20px;
   overflow: hidden;
 }
-.v290_1710 {
+.qualiwrap {
   width: 100%;
   height: 825px;
   background: url("../images/v290_1710.png");
@@ -186,7 +186,7 @@ body {
   left: 0px;
   overflow: hidden;
 }
-.v291_1714 {
+.seeworkwrap {
   width: 296px;
   height: 98px;
   background: url("../images/v291_1714.png");
@@ -199,7 +199,7 @@ body {
   left: 716px;
   overflow: hidden;
 }
-.v247_1883 {
+.seeworkbutton {
   width: 164px;
   color: rgba(255,255,255,1);
   position: absolute;
@@ -211,7 +211,7 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v255_1990 {
+.seeworktype {
   width: 296px;
   height: 98px;
   background: url("../images/v255_1990.png");
@@ -224,7 +224,7 @@ body {
   left: 0px;
   overflow: hidden;
 }
-.v255_1991 {
+.explorebutton {
   width: 296px;
   height: 98px;
   background: rgba(74,87,206,1);
@@ -238,7 +238,7 @@ body {
   border-bottom-right-radius: 100px;
   overflow: hidden;
 }
-.v255_1992 {
+.exploretype {
   width: 212px;
   color: rgba(255,255,255,1);
   position: absolute;
@@ -250,7 +250,7 @@ body {
   opacity: 1;
   text-align: center;
 }
-.v290_1711 {
+.footerwrap {
   width: 100%;
   height: 159px;
   background: url("../images/v290_1711.png");
@@ -263,7 +263,7 @@ body {
   left: 185px;
   overflow: hidden;
 }
-.v247_1929 {
+.footerbox {
   width: 100%;
   height: 130px;
   background: rgba(74,87,206,1);
@@ -277,7 +277,7 @@ body {
   border-bottom-right-radius: 20px;
   overflow: hidden;
 }
-.v247_1930 {
+.footernavlinks {
   width: 381px;
   color: rgba(255,255,255,1);
   position: absolute;
@@ -289,7 +289,7 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v247_1931 {
+.greenlogo {
   width: 105px;
   height: 130px;
   background: url("../images/v247_1931.png");
@@ -302,7 +302,7 @@ body {
   left: 626px;
   overflow: hidden;
 }
-.v247_1932 {
+.socialswrap {
   width: 305px;
   height: 50px;
   background: url("../images/v247_1932.png");
@@ -315,7 +315,7 @@ body {
   left: 980px;
   overflow: hidden;
 }
-.v247_1933 {
+.insta {
   width: 50px;
   height: 50px;
   background: url("../images/v247_1933.png");
@@ -328,7 +328,7 @@ body {
   left: 0px;
   overflow: hidden;
 }
-.v247_1934 {
+.drib {
   width: 50px;
   height: 50px;
   background: url("../images/v247_1934.png");
@@ -341,7 +341,7 @@ body {
   left: 171px;
   overflow: hidden;
 }
-.v247_1935 {
+.beh {
   width: 50px;
   height: 50px;
   background: url("../images/v247_1935.png");
@@ -354,7 +354,7 @@ body {
   left: 86px;
   overflow: hidden;
 }
-.v247_1936 {
+.in {
   width: 50px;
   height: 50px;
   background: url("../images/v247_1936.png");
@@ -367,7 +367,7 @@ body {
   left: 256px;
   overflow: hidden;
 }
-.v247_1937 {
+.caudreywarp {
   width: 203px;
   height: 22px;
   background: url("../images/v247_1937.png");
@@ -380,7 +380,7 @@ body {
   left: 0px;
   overflow: hidden;
 }
-.v247_1938 {
+.caudreytype {
   width: 201px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -392,7 +392,7 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v247_1939 {
+.thec {
   width: 16px;
   height: 16px;
   background: rgba(217,217,217,0);
@@ -402,7 +402,7 @@ body {
   left: 0px;
   border-radius: 50%;
 }
-.v290_1712 {
+.toolwrap {
   width: 100%;
   height: 899px;
   background: url("../images/v290_1712.png");
@@ -415,7 +415,7 @@ body {
   left: 0px;
   overflow: hidden;
 }
-.v255_1989 {
+.toolsection {
   width: 100%;
   height: 899px;
   background: url("../images/v255_1989.png");
@@ -428,7 +428,7 @@ body {
   left: 0px;
   overflow: hidden;
 }
-.v255_1988 {
+.toolwrap2 {
   width: 100%;
   height: 899px;
   background: rgba(74,87,206,1);
@@ -438,7 +438,7 @@ body {
   left: 0px;
   overflow: hidden;
 }
-.v254_1971 {
+.tooltype {
   width: 506px;
   height: 124px;
   background: url("../images/v254_1971.png");
@@ -451,7 +451,7 @@ body {
   left: 214px;
   overflow: hidden;
 }
-.v253_1970 {
+.tooltype1 {
   width: 506px;
   color: rgba(255,255,255,1);
   position: absolute;
@@ -463,7 +463,7 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v247_1906 {
+.tooltype2 {
   width: 184px;
   color: rgba(255,255,255,1);
   position: absolute;
@@ -475,7 +475,7 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v257_1993 {
+.toolwrapper {
   width: 761px;
   height: 663px;
   background: url("../images/v257_1993.png");
