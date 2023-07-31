@@ -1,0 +1,856 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.body {
+  width: 100%;
+  height: 4588px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.Aboutbox {
+  width: 651px;
+  height: 841px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 396px;
+  left: 193px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.Name {
+  width: 223px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 492px;
+  left: 265px;
+  font-family: Founders Grotesk;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.Aboutwords {
+  width: 506px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 561px;
+  left: 265px;
+  font-family: Work Sans;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.Aboutbutton {
+  width: 296px;
+  height: 98px;
+  background: url("../images/v247_1921.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1044px;
+  left: 370px;
+  overflow: hidden;
+}
+.Aboutbutton1 {
+  width: 296px;
+  height: 98px;
+  background: rgba(74,87,206,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 100px;
+  border-top-right-radius: 100px;
+  border-bottom-left-radius: 100px;
+  border-bottom-right-radius: 100px;
+  overflow: hidden;
+}
+.Aboutbutton2 {
+  width: 212px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 29px;
+  left: 42px;
+  font-family: Work Sans;
+  font-weight: Medium;
+  font-size: 30px;
+  opacity: 1;
+  text-align: center;
+}
+.Topnav {
+  width: 282px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 109px;
+  left: 723px;
+  font-family: Work Sans;
+  font-weight: Medium;
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+}
+.Navbutton {
+  width: 216px;
+  height: 71px;
+  background: url("../images/v247_1925.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 88px;
+  left: 1320px;
+  overflow: hidden;
+}
+.Navbutton1 {
+  width: 216px;
+  height: 71px;
+  background: rgba(212,223,69,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 35px;
+  border-top-right-radius: 35px;
+  border-bottom-left-radius: 35px;
+  border-bottom-right-radius: 35px;
+  overflow: hidden;
+}
+.Navbutton2 {
+  width: 98px;
+  color: rgba(74,87,206,1);
+  position: absolute;
+  top: 21px;
+  left: 59px;
+  font-family: Work Sans;
+  font-weight: Medium;
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+}
+.Bluelogo {
+  width: 114px;
+  height: 142px;
+  background: url("../images/v247_1928.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 53px;
+  left: 192px;
+  overflow: hidden;
+}
+.Section1 {
+  width: 653px;
+  height: 839px;
+  background: url("../images/v247_1920.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 396px;
+  left: 883px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+.Qualibox {
+  width: 100%;
+  height: 825px;
+  background: url("../images/v290_1710.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1297px;
+  left: 0px;
+  overflow: hidden;
+}
+.Section2 {
+  width: 296px;
+  height: 98px;
+  background: url("../images/v291_1714.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 4152px;
+  left: 716px;
+  overflow: hidden;
+}
+.Workbutton {
+  width: 164px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 34px;
+  left: 66px;
+  font-family: Work Sans;
+  font-weight: Medium;
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+}
+.Workbutton1 {
+  width: 296px;
+  height: 98px;
+  background: url("../images/v255_1990.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.Workbutton2 {
+  width: 296px;
+  height: 98px;
+  background: rgba(74,87,206,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 100px;
+  border-top-right-radius: 100px;
+  border-bottom-left-radius: 100px;
+  border-bottom-right-radius: 100px;
+  overflow: hidden;
+}
+.vWorkbutton3 {
+  width: 212px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 29px;
+  left: 42px;
+  font-family: Work Sans;
+  font-weight: Medium;
+  font-size: 30px;
+  opacity: 1;
+  text-align: center;
+}
+.Footerbox {
+  width: 100%;
+  height: 159px;
+  background: url("../images/v290_1711.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 4420px;
+  left: 185px;
+  overflow: hidden;
+}
+.Footerbox1 {
+  width: 100%;
+  height: 130px;
+  background: rgba(74,87,206,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+.Footnavlinks {
+  width: 381px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 50px;
+  left: 73px;
+  font-family: Work Sans;
+  font-weight: Medium;
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+}
+.Greenlogo {
+  width: 105px;
+  height: 130px;
+  background: url("../images/v247_1931.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 626px;
+  overflow: hidden;
+}
+.Socials {
+  width: 305px;
+  height: 50px;
+  background: url("../images/v247_1932.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 40px;
+  left: 980px;
+  overflow: hidden;
+}
+.Insta {
+  width: 50px;
+  height: 50px;
+  background: url("../images/v247_1933.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.Behance {
+  width: 50px;
+  height: 50px;
+  background: url("../images/v247_1934.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 171px;
+  overflow: hidden;
+}
+.Dribbble {
+  width: 50px;
+  height: 50px;
+  background: url("../images/v247_1935.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 86px;
+  overflow: hidden;
+}
+.Linkedin {
+  width: 50px;
+  height: 50px;
+  background: url("../images/v247_1936.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 256px;
+  overflow: hidden;
+}
+.C23audrey {
+  width: 203px;
+  height: 22px;
+  background: url("../images/v247_1937.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 137px;
+  left: 0px;
+  overflow: hidden;
+}
+.C23audrey1 {
+  width: 201px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 0px;
+  left: 3px;
+  font-family: Work Sans;
+  font-weight: Light;
+  font-size: 19px;
+  opacity: 1;
+  text-align: left;
+}
+.C23audrey2 {
+  width: 16px;
+  height: 16px;
+  background: rgba(217,217,217,0);
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  left: 0px;
+  border-radius: 50%;
+}
+
+.Toolsection {
+  width: 100%;
+  height: 899px;
+  background: url("../images/v290_1712.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2122px;
+  left: 0px;
+  overflow: hidden;
+}
+.Toolsection1 {
+  width: 100%;
+  height: 899px;
+  background: url("../images/v255_1989.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.Toolsection2 {
+  width: 100%;
+  height: 899px;
+  background: rgba(74,87,206,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.Tooltext {
+  width: 506px;
+  height: 124px;
+  background: url("../images/v254_1971.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 203px;
+  left: 214px;
+  overflow: hidden;
+}
+.Toolbody {
+  width: 506px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 77px;
+  left: 0px;
+  font-family: Work Sans;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.Tooltitle {
+  width: 184px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-family: Founders Grotesk;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.Toolbox {
+  width: 761px;
+  height: 663px;
+  background: url("../images/v257_1993.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  left: 792px;
+  overflow: hidden;
+}
+.Toolbox1 {
+  width: 744px;
+  height: 594px;
+  background: url("../images/v253_1969.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v253_1957 {
+  width: 105px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 120px;
+  left: 0px;
+  font-family: Work Sans;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v253_1958 {
+  width: 105px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 120px;
+  left: 202px;
+  font-family: Work Sans;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v253_1959 {
+  width: 139px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 120px;
+  left: 387px;
+  font-family: Work Sans;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v253_1960 {
+  width: 139px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 120px;
+  left: 605px;
+  font-family: Work Sans;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v253_1961 {
+  width: 98px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 337px;
+  left: 12px;
+  font-family: Work Sans;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v253_1965 {
+  width: 112px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 548px;
+  left: 5px;
+  font-family: Work Sans;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v253_1966 {
+  width: 98px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 548px;
+  left: 204px;
+  font-family: Work Sans;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v253_1967 {
+  width: 112px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 548px;
+  left: 411px;
+  font-family: Work Sans;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v253_1968 {
+  width: 98px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 548px;
+  left: 625px;
+  font-family: Work Sans;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v253_1962 {
+  width: 98px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 337px;
+  left: 204px;
+  font-family: Work Sans;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v253_1963 {
+  width: 98px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 337px;
+  left: 417px;
+  font-family: Work Sans;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v253_1964 {
+  width: 132px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 337px;
+  left: 612px;
+  font-family: Work Sans;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.Toollogo {
+  width: 100px;
+  height: 98px;
+  background: url("../images/v248_1948.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 428px;
+  left: 11px;
+  overflow: hidden;
+}
+.Toollogo1 {
+  width: 101px;
+  height: 98px;
+  background: url("../images/v248_1950.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 428px;
+  left: 203px;
+  overflow: hidden;
+}
+.Toollogo2 {
+  width: 98px;
+  height: 98px;
+  background: url("../images/v248_1951.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 213px;
+  left: 12px;
+  overflow: hidden;
+}
+.Toollogo3 {
+  width: 98px;
+  height: 98px;
+  background: url("../images/v248_1952.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 428px;
+  left: 625px;
+  overflow: hidden;
+}
+.Toollogo4 {
+  width: 98px;
+  height: 98px;
+  background: url("../images/v248_1941.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 625px;
+  overflow: hidden;
+}
+.Toollogo5 {
+  width: 99px;
+  height: 108px;
+  background: url("../images/v248_1945.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 213px;
+  left: 417px;
+  overflow: hidden;
+}
+.Toollogo6 {
+  width: 103px;
+  height: 102px;
+  background: url("../images/v248_1942.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 213px;
+  left: 202px;
+  overflow: hidden;
+}
+.vToollogo7 {
+  width: 108px;
+  height: 98px;
+  background: url("../images/v248_1943.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 200px;
+  overflow: hidden;
+}
+.Toollogo8 {
+  width: 66px;
+  height: 98px;
+  background: url("../images/v248_1947.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 28px;
+  overflow: hidden;
+}
+.Toollogo9 {
+  width: 101px;
+  height: 98px;
+  background: url("../images/v251_1953.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 428px;
+  left: 416px;
+  overflow: hidden;
+}
+.Toollogo10 {
+  width: 139px;
+  height: 97px;
+  background: url("../images/v253_1954.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 397px;
+  overflow: hidden;
+}
+.Toollogo11 {
+  width: 98px;
+  height: 98px;
+  background: url("../images/v253_1955.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 213px;
+  left: 625px;
+  overflow: hidden;
+}
+.Skillsbox {
+  width: 100%;
+  height: 920px;
+  background: url("../images/v291_1713.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 3165px;
+  left: 94px;
+  overflow: hidden;
+}
+
+.Skillsbox {
+  display: grid;
+  margin-top: 50px;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 14px;
+  grid-row-gap: 17px;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: auto auto;
+}
+
+.Skillsbox1:medium {
+  grid-column-gap: 30px;
+}
+
+.Skillsbox2:tiny {
+  grid-template-columns: 1fr;
+}
+
+@media only screen and (max-width: 600px){
+  #categoryGrid {
+    margin: 0px 5%;
+    display: grid;
+    grid-template-rows: 300px 300px 300px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas: 
+    "Sketch"
+    "Marvel"
+    "InVision"
+    "Miro"
+    "Photoshop"
+    "Adobe Illustrator"
+    "Lightroom"
+    "ProCreate"
+    "Monday"
+    "Jira"
+    "Vision Studio Code";
+  }
+}
